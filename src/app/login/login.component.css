@@ -1,0 +1,15 @@
+/* mat-card,
+mat-form-field,
+mat-card-header,
+input {
+  text-align: center;
+}
+
+mat-card-content,
+input {
+  display: block;
+} */
+
+mat-card-title {
+  text-align: center;
+}
